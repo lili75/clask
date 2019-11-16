@@ -39,7 +39,7 @@
     "helmet": "3.3.0",
     "lodash": "4.17.3",
     "material-ui": "0.16.4",
-    "mongoose": "4.7.3",
+    "mongoose": "5.7.11",
     "morgan": "1.7.0",
     "nodemon": "1.11.0",
     "nunjucks": "3.0.0",
